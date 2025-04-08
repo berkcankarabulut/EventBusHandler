@@ -7,10 +7,7 @@
     "name": "Berkcan Karabulut",
     "url": "https://github.com/berkcankarabulut"
   },
-  {
   "dependencies": {
-    "com.berkcankarabulut.singletonhandler": "https://github.com/berkcankarabulut/SingletonHandler.git#v1.0.0",
-    "com.berkcankarabulut.eventbushandler": "https://github.com/berkcankarabulut/EventBusHandler.git#v1.0.0"
+    "com.berkcankarabulut.singletonhandler": "1.0.0"
   }
 }
-
