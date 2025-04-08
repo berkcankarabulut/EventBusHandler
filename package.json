@@ -8,6 +8,6 @@
     "url": "https://github.com/berkcankarabulut"
   },
   "dependencies": {
-    "com.berkcankarabulut.singletonhandler": "https://github.com/berkcankarabulut/SingletonHandler.git"
+    "com.berkcankarabulut.singletonhandler": "https://github.com/berkcankarabulut/SingletonHandler.git#main"
   }
 }
