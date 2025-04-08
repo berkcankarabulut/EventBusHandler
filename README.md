@@ -1,6 +1,6 @@
  <h3> EventBus (Event Management System)</h3>
     <p>The EventBus allows <strong>loosely coupled communication</strong> between different components.</p>
-    <p>First you need to download this one here as Dependency: https://github.com/berkcankarabulut/EventBusHandler</p>
+    <p>First you need to download this one here as Dependency: https://github.com/berkcankarabulut/SingletonHandler</p>
     <ul>
         <li><strong>Action-based Events:</strong> Handles events without return values.</li>
         <li><strong>Func-based Events:</strong> Handles events with return values.</li>
