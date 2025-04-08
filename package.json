@@ -1,0 +1,13 @@
+{
+  "name": "com.berkcankarabulut.eventbushandler",
+  "version": "1.0.0",
+  "displayName": "EventBus Handler",
+  "description": "A flexible, type-safe event bus system for Unity that supports both Action and Func delegates. This package provides a robust communication system between decoupled components with support for void and return value events, multiple subscription types, and powerful result aggregation capabilities.",
+  "author": {
+    "name": "Berkcan Karabulut",
+    "url": "https://github.com/berkcankarabulut"
+  },
+  "dependencies": {
+    "com.berkcankarabulut.singletonhandler": "https://github.com/berkcankarabulut/SingletonHandler.git"
+  }
+}
